@@ -13,7 +13,7 @@ tags:
   - Alligator
   - Bär
 ---
-![]()
+![](/media/download.jpg)
 
 Fräulein Haselmüller, Anita Haselmüller, hieß eine junge Frau, die vor etwa hundert Jahren in einem Ort namens Wermelskirchen lebte. Sie hatte, das ging damals schon aus der Anrede „Fräulein“ hervor, weder Kind noch Mann. Stattdessen besaß sie ein Auto.
 
@@ -41,4 +41,4 @@ Ebensowenig fand der Autor dieser Zeilen eine Antwort auf die Frage, warum Fräu
 
 Vielleicht sollte aber einfach mal jemand die Straße zwischen Wipperfürth und Wermelskirchen abfahren. Wenn irgendwo die Lösung zu finden ist – dann dort.
 
-![](/media/download.jpg)
+![]()
