@@ -2,7 +2,7 @@
 template: page
 title: Über Bus
 socialImage: /media/image-2.jpg
-slug: about_me
+slug: about
 draft: false
 ---
 
