@@ -1,13 +1,13 @@
 ---
 template: post
 title: Der Pianist
-slug: Schnecke
+slug: Texte-gegen-die-Corona-Langeweile
 draft: false
 date: 2020-03-31T10:52:16.942Z
 description: Coronatext für Töchter u.a.
-category: Kurzgeschichte
+category: Short Story
 tags:
-  - Kurzgeschichte Held
+  - Kurzgeschichte Held Corona
 ---
 
 
