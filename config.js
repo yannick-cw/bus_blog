@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Burkhard Strassmann',
+  subtitle: 'Ich habe so viel zu sagen!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,22 +12,22 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artikel',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Über mich',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Kontakt',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Burkhard Strassmann',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Text über Bus',
     contacts: {
       email: '',
       facebook: '#',
