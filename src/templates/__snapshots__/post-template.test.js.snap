@@ -43,7 +43,7 @@ exports[`PostTemplate renders correctly 1`] = `
         <p
           className="meta__date"
         >
-          Published 
+          Veröffentlicht 
           1 Sep 2016
         </p>
       </div>
