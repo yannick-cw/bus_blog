@@ -1,7 +1,7 @@
 ---
 template: post
 title: Der Pianist
-slug: Texte-gegen-die-Corona-Langeweile
+slug: Ich-als-Held
 draft: false
 date: 2020-03-31T10:52:16.942Z
 description: Coronatext für Töchter u.a.
