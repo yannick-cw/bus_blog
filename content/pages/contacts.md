@@ -2,7 +2,7 @@
 template: page
 title: Kontakt
 socialImage: /media/image-4.jpg
-slug: contact_me
+slug: contacts
 draft: false
 ---
 
