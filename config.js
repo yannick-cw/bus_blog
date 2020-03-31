@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Burkhard Strassmann',
-  subtitle: 'Ich habe so viel zu sagen!',
+  title: 'Blog von Burkhard Strassmann',
+  subtitle: 'Quarantäne gebiert Prosa',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Burkhard Strassmann',
     photo: '/photo.jpg',
-    bio: 'Text über Bus',
+    bio: 'Quarantäne gebiert Prosa',
     contacts: {
       email: '',
       facebook: '#',
