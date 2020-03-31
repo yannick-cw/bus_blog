@@ -12,6 +12,7 @@
 </p>
 
 ## Table of contents
+
 + [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
 + [Web Performance Tests](http://github.com/alxshelepenok/gatsby-starter-lumen#web-performance-tests)
 + [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
