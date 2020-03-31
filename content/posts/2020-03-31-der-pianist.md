@@ -5,7 +5,7 @@ slug: Schnecke
 draft: false
 date: 2020-03-31T10:52:16.942Z
 description: Coronatext für Töchter u.a.
-category: Short Story
+category: Kurzgeschichte
 tags:
   - Kurzgeschichte Held
 ---
