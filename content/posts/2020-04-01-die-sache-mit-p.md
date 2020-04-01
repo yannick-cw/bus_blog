@@ -2,7 +2,7 @@
 template: post
 title: Die Sache mit P.
 slug: die-Sache-mit-P
-draft: true
+draft: false
 date: 2020-04-01T09:33:50.873Z
 description: 'Ein Mann, den nur ein "n" von Superman trennt'
 category: Short Story
