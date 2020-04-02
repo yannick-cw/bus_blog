@@ -2,7 +2,7 @@
 template: post
 title: Das Zeitfenster
 slug: das-Zeitfenster
-draft: true
+draft: false
 date: 2020-04-02T10:18:28.124Z
 description: Ein undurchsichtiger Wettlauf gegen die Zeit. Eher ein Wettklettern.
 category: Short Story
