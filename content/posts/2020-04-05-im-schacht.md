@@ -2,12 +2,12 @@
 template: post
 title: Im Schacht
 slug: Alter-Rente-Quarantäne-Himmel
-draft: true
+draft: false
 date: 2020-04-05T20:01:20.724Z
 description: >-
   Hier geht es um den strukturellen Zusammenhang zwischen Renten- und
   Quarantäneerfahrung und noch einiges mehr
-category: 'Short Story, aber Achtung: schwarz! Nur in heiteren Phasen zu lesen!'
+category: 'Short Story, aber Vorsicht: schwarz! Nur in heiteren Phasen zu lesen!'
 tags:
   - Corona Quarantäne Rente Altersheim
 ---
