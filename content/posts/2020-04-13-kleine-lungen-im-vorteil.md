@@ -4,7 +4,7 @@ title: Kleine Lungen im Vorteil
 slug: kleine-Lungen-wenig-Viren
 draft: false
 date: 2020-04-13T15:26:44.369Z
-description: Warum weibliche Bläser länger leben (leider Fake)
+description: Warum weibliche Bläser länger leben
 category: Fake News
 tags:
   - Corona Blasmusik Ente
