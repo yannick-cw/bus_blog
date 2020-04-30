@@ -7,7 +7,7 @@ date: 2020-04-30T09:38:54.976Z
 description: >-
   Die Wahrheit über den moralischen Imperativ, den Unterleib nicht mehr zu
   verhüllen
-category: Leser fragen - Onkel Bu antwortet
+category: Leserfragen
 tags:
   - Wandervogel Nacktwandern "unten ohne"
 ---
