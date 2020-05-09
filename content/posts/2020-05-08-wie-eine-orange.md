@@ -2,7 +2,7 @@
 template: post
 title: Wie eine Orange!
 slug: Orange-Nelken-Corona
-draft: true
+draft: false
 date: 2020-05-08T10:49:35.366Z
 description: Ein sehr leicht anzufertigendes Corona-Virus-Modell
 category: Bastelanleitung
