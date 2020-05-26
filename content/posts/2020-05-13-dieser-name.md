@@ -9,6 +9,8 @@ category: Short Story
 tags:
   - Corona Geburtstag Las Vegas
 ---
+**(für M.)**
+
 Ich liege in der Hängematte. Eine lachende Sonne am blauen Himmel, zu meiner Rechten ein hochbeiniges Tischchen, darauf ein tulpenförmiges Glas mit einem orangefarbenem Getränk. In der Linken halte ich eine selbst gedrehte Zigarette, und plötzlich spüre ich: Etwas stimmt nicht.
 
 Ich habe kein Feuerzeug. *Verdecken!* schimpfe ich. Das ist mein Codewort für einen Fluch – und ein Fluch, also ein richtiger hässlicher Fluch kommt mir nicht über die Lippen. Erziehungssache. Und heute schon gar nicht.
