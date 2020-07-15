@@ -1,6 +1,6 @@
 ---
 template: post
-title: Perfecting the Art of Perfection
+title: 'Kunst, Kunst, Kunst'
 slug: perfecting-the-art-of-perfection
 draft: true
 socialImage: /media/image-2.jpg
