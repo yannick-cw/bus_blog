@@ -2,7 +2,7 @@
 template: post
 title: Liebe ist wenn
 slug: Liebe_Weisheit_Lebenssinn
-draft: false
+draft: true
 date: 2020-07-16T09:51:05.067Z
 description: Einige Antworten auf die immergleiche Frage
 category: Traktat
