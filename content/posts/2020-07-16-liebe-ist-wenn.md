@@ -2,7 +2,7 @@
 template: post
 title: Fragen Sie Peterchen Rollbrecht!
 slug: Liebe_Weisheit_Lebenssinn
-draft: true
+draft: false
 date: 2020-07-16T09:51:05.067Z
 description: Einige Antworten auf die immergleiche Frage
 category: Traktat
