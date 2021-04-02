@@ -2,7 +2,7 @@
 template: post
 title: Meine Nacht im Kölner Dom
 slug: Dom
-draft: true
+draft: false
 date: 2021-04-02T10:38:02.977Z
 description: 'Nur mühsam getarnte Reportage für DIE ZEIT, allerdings ungedruckt'
 category: Getarnte Reportage
